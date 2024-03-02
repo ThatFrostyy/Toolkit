@@ -289,7 +289,7 @@
             MainMenuStrip = menuStrip1;
             Name = "Form3";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Assembly Modifier";
+            Text = "Metadata Editor";
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
